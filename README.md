@@ -10,3 +10,5 @@ Add a gui.
 #Make so that the p1s choices arent visible till p2 picks.
 #Make so that all cases are accepted.
 #Laugh and completly ignore these tasks next time you see them.
+
+HaHa
